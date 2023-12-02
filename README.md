@@ -73,3 +73,7 @@ The HFUT-MH dataset consists of two subsets:
 
 ### Conclusion
 The proposed methodology presents a highly accurate and real-time end-to-end motorcycle helmet detection system based on YOLOv5. The HFUT-MH dataset, developed for this purpose, provides a diverse and challenging dataset for training and validation. The system outperforms state-of-the-art methods in terms of both accuracy and real-time detection. Future work may include object tracking to reduce redundant detection and improve system efficiency for traffic video surveillance.
+
+---
+
+#### **⚠️ *Due to the freelance nature of this project, detailed documentation + modular code is restricted for said period of time. For collaboration inquiries, please contact the repository owner.***
